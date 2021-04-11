@@ -18,3 +18,7 @@
   # 雲端運算服務第二次作業
   [HW2-1](https://youtu.be/wCt8D1-aaGQ)  
   [HW2-2](https://youtu.be/PZl7_L2abTQ)
+  
+  # 雲端運算服務第三次作業
+  [HW3-1(S3)](https://youtu.be/mnX2G4x7_OA)  
+  [HW3-2(amplify)](https://youtu.be/T6qg5OJl3Xg)
