@@ -23,6 +23,10 @@
   [HW3-1(S3)](https://youtu.be/mnX2G4x7_OA)  
   [HW3-2(amplify)](https://youtu.be/T6qg5OJl3Xg)
   
-  # 雲端運算服務第三次作業
+  # 雲端運算服務第四次作業
   [HW4-1](https://youtu.be/yaJF_hk52fs)  
   [HW4-2(測試是否成功)](https://youtu.be/UoEs0qI2Ok0)
+
+  # 雲端運算服務第五次作業
+  [HW5-1](https://youtu.be/7m1eZF57VfI)案例一  
+  [HW5-2](https://youtu.be/C9taD9wt_zg)案例三
