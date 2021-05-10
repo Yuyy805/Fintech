@@ -30,3 +30,6 @@
   # 雲端運算服務第五次作業
   [HW5-1](https://youtu.be/7m1eZF57VfI)案例一  
   [HW5-2](https://youtu.be/Tfnz_xOtDO0)案例三
+
+# 第二次進度追蹤
+[簡報](https://docs.google.com/presentation/d/1YJjpshkVjOJyCVL7ekdPkyBFixuE5Oiv/edit#slide=id.p1)
