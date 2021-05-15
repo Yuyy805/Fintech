@@ -31,5 +31,8 @@
   [HW5-1](https://youtu.be/7m1eZF57VfI)案例一  
   [HW5-2](https://youtu.be/Tfnz_xOtDO0)案例三
 
-# 第二次進度追蹤
-[簡報](https://docs.google.com/presentation/d/1YJjpshkVjOJyCVL7ekdPkyBFixuE5Oiv/edit#slide=id.p1)
+  # 第二次進度追蹤
+  [簡報](https://docs.google.com/presentation/d/1YJjpshkVjOJyCVL7ekdPkyBFixuE5Oiv/edit#slide=id.p1)
+
+  # 雲端運算服務第六次作業  
+  [HW6-1](https://youtu.be/yGJzlfat7zs)
